@@ -1,0 +1,6 @@
+framework module Pods_iResumeTests {
+  umbrella header "Pods-iResumeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
